@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+python-multipart
+yt-dlp>=2023.12.30
+jinja2
+browser-cookie3 
